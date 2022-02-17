@@ -1,2 +1,2 @@
-# 100DaysOfCode_JS
+# 100DaysOfCode_Round1
 This repo consists of the notes I prepared and projects I completed on JS during #100DaysOfCode challenge.
